@@ -1,0 +1,35 @@
+* {
+    padding-right: 5px;
+}
+
+.logo {
+    width: 100px;
+    height: 50px;
+}
+
+body {
+    background-color: #E9ECEF;
+}
+
+.ana {
+    text-align: center;
+    list-style-type: none;
+    padding-top: 10px;
+}
+
+.yazı {
+    text-align: center;
+    padding-top: 50px;
+    color: brown;
+}
+
+footer {
+    text-align: center;
+}
+
+
+/***** İSlam Felsefesi sayfası******/
+
+.row {
+    padding-top: 150px;
+}
